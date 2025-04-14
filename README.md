@@ -16,41 +16,39 @@ Welcome to my GitHub profile! I'm Vigneshwaran R, a passionate DevOps Engineer w
 
 ## 🛠 Skills & Tools
 
-### Cloud Technologies:
-- **AWS** (EC2, S3, IAM, Lambda, RDS, VPC)
-  - 2.9 years of hands-on experience in architecting, automating, and maintaining scalable AWS environments.
+## 🛠 Tools & Technologies
 
-### DevOps Tools:
-- **CI/CD Pipelines** (Jenkins, GitLab)
-  - 2.5 years of experience in building and maintaining pipelines for continuous integration and deployment.
+### ☁️ Cloud Technologies:
+- **AWS** (EC2, S3, IAM, Lambda, RDS, VPC, CloudFormation)
+
+### 🚀 DevOps Tools:
+- **Jenkins** 
+- **GitLab** 
 - **ArgoCD**
-  - 1 year of hands-on experience in Kubernetes-based deployments and managing application lifecycles.
 
-### Containers & Orchestration:
-- **Docker**
-  - 2.5 years of experience in containerizing applications for consistent and scalable deployments.
+### 🐳 Containers & Orchestration:
+- **Docker** 
 - **Kubernetes**
-  - 2 years of experience in managing Kubernetes clusters and deploying microservices efficiently.
 
-### Infrastructure as Code (IaC):
-- **Terraform**
-  - 2.5 years of experience in writing reusable infrastructure code and managing resources in AWS and other cloud environments.
+### 🛠️ Infrastructure as Code (IaC):
+- **Terraform** 
 - **CloudFormation**
-  - 1.5 years of experience in defining and provisioning AWS infrastructure using CloudFormation templates.
 
-### Monitoring & Observability:
-- **Prometheus & Grafana**
-  - 2 years of experience in building real-time monitoring solutions and visual dashboards for cloud applications.
-- **ELK Stack**
-  - 1 year of experience in using ELK for centralized logging and monitoring of cloud applications.
+### 📊 Monitoring & Observability:
+- **Prometheus** 
+- **Grafana** 
+- **ELK Stack** (Elasticsearch, Logstash, Kibana)
 
-### Automation & Scripting:
-- **Python, Shell, Bash**
-  - 2.5 years of experience in automating cloud tasks and managing infrastructure with custom scripts.
+### 🔧 Automation & Scripting:
+- **Python** 
+- **Shell** 
+- **Bash**
 
-### Configuration Management:
+### ⚙️ Configuration Management:
 - **Ansible**
-  - 1.5 years of experience in automating server configurations and deployments across multiple environments.
+
+### 🔐 Security & Cost Optimization:
+- **AWS Security Best Practices**
 
 ---
 
