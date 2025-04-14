@@ -11,7 +11,7 @@ I love solving real-world challenges and making systems faster, smarter, and mor
 - **Name**: Vigneshwaran R
 - **Email**: [vigneshraveendran31@gmail.com](mailto:vigneshraveendran31@gmail.com)
 - **Phone**: +91 8838516847
-- **LinkedIn**: [LinkedIn Profile](#)
+- **LinkedIn**: [www.linkedin.com/in/vignesh-waran-1aa166273](#)
 - **GitHub**: [GitHub Profile](#)
 
 ---
