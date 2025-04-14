@@ -1,6 +1,8 @@
 # Vigneshwaran R | DevOps Engineer
 
-Welcome to my GitHub profile! I'm Vigneshwaran R, a passionate DevOps Engineer with over 7 years of experience in IT, specializing in **AWS** and **DevOps** practices. My focus is on **cloud automation**, **infrastructure optimization**, and **CI/CD pipelines**. I enjoy solving complex challenges, improving system performance, and ensuring cost efficiency in cloud environments.
+Welcome to my GitHub profile!  
+I'm a **DevOps Engineer** with 7+ years in IT — passionate about **cloud automation**, **infrastructure optimization**, and building smooth **CI/CD pipelines**.  
+I love solving real-world challenges and making systems faster, smarter, and more cost-effective.
 
 ---
 
