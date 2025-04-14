@@ -14,43 +14,14 @@ Welcome to my GitHub profile! I'm Vigneshwaran R, a passionate DevOps Engineer w
 
 ---
 
-## 🛠 Skills & Tools
-
 ## 🛠 Tools & Technologies
 
-### ☁️ Cloud Technologies:
-- **AWS** (EC2, S3, IAM, Lambda, RDS, VPC, CloudFormation)
+☁️ AWS | 🐳 Docker | ☸️ Kubernetes  
+🚀 Jenkins | 🔧 GitLab | 🔄 ArgoCD  
+📦 Terraform | 🧱 CloudFormation | ⚙️ Ansible  
+📊 Prometheus | 📈 Grafana | 📚 ELK Stack  
+🐍 Python | 💻 Bash/Shell
 
-### 🚀 DevOps Tools:
-- **Jenkins** 
-- **GitLab** 
-- **ArgoCD**
-
-### 🐳 Containers & Orchestration:
-- **Docker** 
-- **Kubernetes**
-
-### 🛠️ Infrastructure as Code (IaC):
-- **Terraform** 
-- **CloudFormation**
-
-### 📊 Monitoring & Observability:
-- **Prometheus** 
-- **Grafana** 
-- **ELK Stack** (Elasticsearch, Logstash, Kibana)
-
-### 🔧 Automation & Scripting:
-- **Python** 
-- **Shell** 
-- **Bash**
-
-### ⚙️ Configuration Management:
-- **Ansible**
-
-### 🔐 Security & Cost Optimization:
-- **AWS Security Best Practices**
-
----
 
 ## 🌟 Achievements
 
